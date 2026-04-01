@@ -1,0 +1,49 @@
+/.metadata/
+*.class
+/13 Encapsulation/PackageInNetbeans/nbproject/private/
+/13 Encapsulation/PackageInNetbeans/build/
+/13 Encapsulation/PackageInNetbeans/dist/
+/19 JDBC/JDBCwithNetbeans/nbproject/private/
+/19 JDBC/JDBCwithNetbeans/build/
+/19 JDBC/JDBCwithNetbeans/dist/
+/19 JDBC/DaoDesignPatternnetbeans/nbproject/private/
+/Java5August
+.DS_Store
+/30 AwtSwing/LearnGUI/target/
+/Eclipse Projects/MP3Player/nbproject/private/
+/Eclipse Projects/MP3Player/build/
+/Eclipse Projects/MP3Player/dist/
+/Eclipse Projects/mayank/nbproject/private/
+/Eclipse Projects/mayank/build/
+/Eclipse Projects/GUIlearning1/nbproject/private/
+/Eclipse Projects/GUIlearning1/build/
+/Eclipse Projects/GUIlearning1/dist/
+/Eclipse Projects/PreApp/nbproject/private/
+/Eclipse Projects/PreApp/build/
+/Eclipse Projects/PreApp/dist/
+/DataScienceInJava/OpenCvNetbeans/nbproject/private/
+/DataScienceInJava/OpenCvNetbeans/build/
+/DataScienceInJava/OpenCvNetbeans/dist/
+/DataScienceInJava/TestQuestions/nbproject/private/
+
+
+
+
+# Java build
+target/
+*.class
+
+# Node
+node_modules/
+dist/
+
+# Eclipse / IDE
+.metadata/
+.settings/
+*.log
+Servers/
+Servers2/
+
+# OS files
+.DS_Store
+Thumbs.db
